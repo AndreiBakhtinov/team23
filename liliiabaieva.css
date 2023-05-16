@@ -1,0 +1,28 @@
+@keyframes typing  { 
+    from  {  width :  0  } 
+    to  {  width :  100%  } 
+  }
+
+  body{
+    background-color: #eff6b9;
+  }
+
+  .container{
+    margin: 100px auto;
+    width: 70%;
+    height: 200px;
+    /* display: flex;
+    justify-content: center; */
+    display : inline-block ;
+}
+
+.typed-out{
+    margin: 50px 0;
+
+    overflow: hidden ; 
+    border-right:  .15em solid #310427; 
+    white-space: nowrap ; 
+    font-size:  1.6rem ; 
+    width:  0 ; 
+    animation: typing 1s steps(20, end) forwards ; 
+}
