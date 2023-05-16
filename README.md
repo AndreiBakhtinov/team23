@@ -23,4 +23,5 @@
 - [Maksym](https://andreibakhtinov.github.io/team23/maryna.html)
 - [Андрей](https://andreibakhtinov.github.io/team23/andrei.html)
 - [Zakozhurnikova](https://andreibakhtinov.github.io/team23/zakozhurnikova.html)
+- [Valentyna(amadeus)](https://andreibakhtinov.github.io/team23/amadeus.html)
 
