@@ -1,4 +1,7 @@
 # team23
+
+- [Sergei_F](https://github.com/AndreiBakhtinov/team23/blob/main/Sergeifs13.html)
+
 - [albina](https://andreibakhtinov.github.io/team23/albina.html)
 
 - [Valentin](https://andreibakhtinov.github.io/team23/valentin.html)
