@@ -13,7 +13,7 @@
 
 - [Liliia Baieva](https://andreibakhtinov.github.io/team23/liliiabaieva)
 
-- [Марина](https://github.com/AndreiBakhtinov/team23/blob/main/maryna.html)
+- [Марина](https://andreibakhtinov.github.io/team23/maryna.html)
 
 - [Maksym](https://andreibakhtinov.github.io/team23/maryna.html)
 
